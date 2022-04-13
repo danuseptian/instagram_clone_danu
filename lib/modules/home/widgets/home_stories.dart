@@ -25,7 +25,7 @@ class HomeStories extends StatelessWidget {
                     child: Stack(
                       children: [
                         CircleAvatar(
-                          radius: 45,
+                          radius: 40,
                           backgroundImage: AssetImage(
                             '${item['profile_photo']}',
                           ),
