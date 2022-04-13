@@ -1,16 +1,4 @@
-# instagram_by_danu
+This is an app where i clone UI Instagram app. In this app, i use Getx state management and view controller structure for clean coding purpose. I create more than 6+ screens. Feel free to see how i code and how i implement Getx state management with view controller structure.
 
-A new Flutter project.
+<img src="https://user-images.githubusercontent.com/71324740/163225696-35550a37-6f0f-4d8d-bd1e-a1e35202a7de.png" width=20% height=20%> <img src="https://user-images.githubusercontent.com/71324740/163225714-985f7eb2-a7ea-4ad0-aef8-9daf295e2f89.png" width=20% height=20%> <img src="https://user-images.githubusercontent.com/71324740/163225758-7e9f7972-6866-458b-a15f-02b9ed7f2635.png" width=20% height=20%> <img src="https://user-images.githubusercontent.com/71324740/163225817-092d6b86-375f-4423-b906-1eb8b80994e6.png" width=20% height=20%> <img src="https://user-images.githubusercontent.com/71324740/163225845-2157c3ee-40e7-4bd2-943f-cb26bfc59d2c.png" width=20% height=20%> <img src="https://user-images.githubusercontent.com/71324740/163225850-00e80074-b148-4a23-b86a-b68d4af24860.png" width=20% height=20%> <img src="https://user-images.githubusercontent.com/71324740/163225854-80fac80a-edd0-49cd-9ac3-5745d3fb0e4a.png" width=20% height=20%>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
